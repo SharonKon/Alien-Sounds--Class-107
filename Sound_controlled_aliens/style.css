@@ -1,0 +1,40 @@
+.header_div{
+    background-color: rgb(168, 158, 161);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;font-size: 12;
+    font-weight: bold;
+}
+
+#header{
+text-shadow:5px 5px 8px black;
+color: rgb(250, 250, 250);
+font-family: cursive;
+}
+
+#note{
+    text-shadow:5px 5px 8px black;
+    color: white;
+    font-family:cursive;
+}
+
+body{
+    background-color: rgb(243, 160, 204);
+}
+#Start{
+    margin-top: 45px;
+    background-color: white;
+    color: rgb(243, 160, 204);
+    font-family: fantasy;
+    font-weight: 300;
+}
+#footer{
+    position:fixed;
+    color:gray;
+    bottom:0;
+    width: 100%;
+    line-height: 3;
+    text-align:center ;
+    text-shadow:3px 3px 5px rgb(255, 255, 255);
+font-size:20px;
+font-family: cursive;
+}
